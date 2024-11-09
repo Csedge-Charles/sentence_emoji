@@ -1,0 +1,22 @@
+#input_box{
+    transform: translate(400px, 300px);
+    font-size: 25px;
+    height:30px;
+    width:400px;
+}
+
+#submit{
+    transform: translate(95px, 380px);
+    height:30px;
+    width:200px;
+}
+
+#headtext{
+    font-size: 75px;
+    font-family: 'Lucida Sans';
+    transform: translate(500px, 240px);
+}
+
+#whole{
+    transform: translate(100px, -50px);
+}
